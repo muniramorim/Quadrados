@@ -1,3 +1,0 @@
-# Quadrado
-
-ddd
